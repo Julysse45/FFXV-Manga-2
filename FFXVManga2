@@ -1,0 +1,17 @@
+{
+   "title":"Final Fantasy XV Official Anthology Comic 2",
+   "description":"La segunda antalogia oficial de Final Fantasy XV.",
+   "artist":"Prueba",
+   "author":"Prueba",
+   "cover":"https://imgur.com/a/gpqFDog",
+   "chapters":{
+      "<1>":{
+         "title":"<Soñando con Kennies>",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/KABeVdA/"
+         },
+         "last_updated":"1616368746"
+      }
+   }
+}
