@@ -41,12 +41,20 @@
          "title":"Él (no) es fotogénico",
          "volume":"1",
          "groups":{
-            "Julysse":"/proxy/api/imgur/chapter/320WxwY/"
+            "Julysse":"/proxy/api/imgur/chapter/T3ULbVq/"
          },
          "last_updated":"1641085200"
       },
       "6":{
          "title":"Príncipe amable",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/st8vOFm/"
+         },
+         "last_updated":"1641085200"
+      },
+      "7":{
+         "title":"FFXV+a",
          "volume":"1",
          "groups":{
             "Julysse":"/proxy/api/imgur/chapter/st8vOFm/"
