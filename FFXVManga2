@@ -102,7 +102,23 @@
          "last_updated":"1641085200"
       },
       "13":{
-         "title":"Resolución",
+         "title":"El diario de fotos de Prompto",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/ojMz8wB/"
+         },
+         "last_updated":"1641085200"
+      },
+       "14":{
+         "title":"Mejor toma",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/qciKgWJ/"
+         },
+         "last_updated":"1641085200"
+      },
+       "15":{
+         "title":"Arreglando la dieta de Noctis",
          "volume":"1",
          "groups":{
             "Julysse":"/proxy/api/imgur/chapter/qciKgWJ/"
