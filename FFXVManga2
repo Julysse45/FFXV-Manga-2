@@ -124,6 +124,14 @@
             "Julysse":"/proxy/api/imgur/chapter/RDk1bvV/"
          },
          "last_updated":"1641085200"
+      },
+       "16":{
+         "title":"Créditos",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/3pJZBLq/"
+         },
+         "last_updated":"1641085200"
       }
    }
 }
