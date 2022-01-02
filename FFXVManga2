@@ -73,6 +73,22 @@
          "title":"La primera mazmorra",
          "volume":"1",
          "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/6G5lApZ/"
+         },
+         "last_updated":"1641085200"
+      },
+      "10":{
+         "title":"Resolución",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/st8vOFm/"
+         },
+         "last_updated":"1641085200"
+      }
+      "11":{
+         "title":"El rey está un paso por delante",
+         "volume":"1",
+         "groups":{
             "Julysse":"/proxy/api/imgur/chapter/st8vOFm/"
          },
          "last_updated":"1641085200"
