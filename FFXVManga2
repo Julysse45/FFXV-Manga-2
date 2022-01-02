@@ -49,12 +49,28 @@
          "title":"Príncipe amable",
          "volume":"1",
          "groups":{
-            "Julysse":"/proxy/api/imgur/chapter/st8vOFm/"
+            "Julysse":"/proxy/api/imgur/chapter/gMZrM5b/"
          },
          "last_updated":"1641085200"
       },
       "7":{
          "title":"FFXV+a",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/st8vOFm/"
+         },
+         "last_updated":"1641085200"
+      },
+      "8":{
+         "title":"Flores en deshielo",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/st8vOFm/"
+         },
+         "last_updated":"1641085200"
+      },
+      "9":{
+         "title":"La primera mazmorra",
          "volume":"1",
          "groups":{
             "Julysse":"/proxy/api/imgur/chapter/st8vOFm/"
