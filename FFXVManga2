@@ -92,6 +92,22 @@
             "Julysse":"/proxy/api/imgur/chapter/qciKgWJ/"
          },
          "last_updated":"1641085200"
+      },
+      "12":{
+         "title":"El rey está un paso por delante",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/PunQiEn/"
+         },
+         "last_updated":"1641085200"
+      },
+      "13":{
+         "title":"Resolución",
+         "volume":"1",
+         "groups":{
+            "Julysse":"/proxy/api/imgur/chapter/qciKgWJ/"
+         },
+         "last_updated":"1641085200"
       }
    }
 }
